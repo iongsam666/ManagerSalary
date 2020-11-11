@@ -1,0 +1,1 @@
+Person{name=Trump Binden Obama, birthDay: 14 / 6 / 1946, address=Queens-NewYork-USE, gender=Male}Staff{department=Business, coefficientSalary=10.0, seniority=20, bassicSalary=10000.0, salary=120000.00476837158}
